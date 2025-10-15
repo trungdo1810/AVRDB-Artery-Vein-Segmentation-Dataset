@@ -56,7 +56,7 @@ If you find this repository useful, please consider giving it a star ⭐ on GitH
 
 ### 📧 Contact
 
-For questions or access to the processing scripts, please contact:
+For questions or access to the full processed dataset, please contact:
 📧 **[[trungdo1810.fw@gmail.com](mailto:trungdo1810.fw@gmail.com)]**
 
 ---
