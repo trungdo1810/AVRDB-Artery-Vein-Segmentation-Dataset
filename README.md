@@ -1,5 +1,5 @@
-# AVRDB-AFIO Cleaned Artery/Vein Masks
-![Cleaned artery/vein mask samples derived from AVRDB dataset](./samples/stitched_result.jpg)
+# AVRDB-AFIO Refined Artery/Vein Masks
+![Refined artery/vein mask samples derived from AVRDB dataset](./samples/stitched_result.jpg)
 *Example of refined A/V masks visualization (red: artery, blue: vein, green: crossing).*
 
 ### 📋 Overview
