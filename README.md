@@ -1,8 +1,10 @@
 # AVRDB-AFIO Cleaned Artery/Vein Masks
+![Cleaned artery/vein mask samples derived from AVRDB dataset](./samples/stitched_result.jpg)
+*Example of refined A/V masks visualization (red: artery, blue: vein, green: crossing).*
 
 ### 📋 Overview
 
-This repository provides **cleaned and standardized artery/vein segmentation masks** derived from the publicly available **AVRDB dataset**
+This repository provides **ready-to-use artery/vein segmentation masks** derived from the publicly available **AVRDB dataset**
 (*AVRDB: Annotated dataset for vessel segmentation and calculation of arteriovenous ratio*).
 The annotations were originally provided by the **Armed Forces Institute of Ophthalmology (AFIO)**.
 
@@ -26,7 +28,13 @@ I refined and remapped the masks using the following color convention:
 
 ---
 
-### 📖 Citation Summary
+### ⭐ Support the Project
+
+If you find this repository useful, please consider giving it a star ⭐ on GitHub! Your support helps motivate further improvements and sharing with the community.
+
+---
+
+### 📖 Citation
 
 #### Original Dataset
 
@@ -39,18 +47,10 @@ I refined and remapped the masks using the following color convention:
   author       = {Thanh Trung Do},
   title        = {Cleaned and Standardized Artery/Vein Masks for the AVRDB Dataset},
   year         = {2025},
-  howpublished = {\url{https://github.com/yourusername/AVRDB-AFIO-Cleaned-Masks}},
-  note         = {Processed masks derived from AVRDB for segmentation research.}
+  howpublished = {\url{https://github.com/trungdo1810/AVRDB-Artery-Vein-Segmentation-Dataset.git}},
+  note         = {Processed masks derived from AVRDB for A/V segmentation research.}
 }
 ```
-
----
-
-### 📷 Samples
-
-Below is an example image showcasing a few samples from the processed dataset (RGB image with overlayed masks):
-
-![Sample Images](samples/sample_examples.png)
 
 ---
 
@@ -61,12 +61,6 @@ For questions or access to the processing scripts, please contact:
 
 ---
 
-### ⭐ Support the Project
-
-If you find this repository useful, please consider giving it a star ⭐ on GitHub! Your support helps motivate further improvements and sharing with the community.
-
----
-
 ### ⚠️ Ethical Note
 
-This work aims to facilitate **reproducible research** in retinal artery/vein segmentation by providing cleaned versions of publicly available annotations.
+This work aims to facilitate reproducible research in retinal artery/vein segmentation by providing cleaned derivative masks based on annotations from the publicly available AVRDB dataset. All original fundus images and annotations are owned by the authors of the AVRDB dataset (Shahzad Akbar et al., 2017) and the Armed Forces Institute of Ophthalmology (AFIO).
