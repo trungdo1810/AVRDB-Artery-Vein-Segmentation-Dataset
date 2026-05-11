@@ -63,4 +63,4 @@ For questions or access to the full processed dataset, please contact:
 
 ### ⚠️ Ethical Note
 
-This work aims to facilitate reproducible research in retinal artery/vein segmentation by providing cleaned derivative masks based on annotations from the publicly available AVRDB dataset. All original fundus images and annotations are owned by the authors of the AVRDB dataset (Shahzad Akbar et al., 2017) and the Armed Forces Institute of Ophthalmology (AFIO).
+This work aims to facilitate research in retinal artery/vein segmentation by providing cleaned masks based on annotations from the publicly available AVRDB dataset. All original fundus images and annotations are owned by the authors of the AVRDB dataset (Shahzad Akbar et al., 2017) and the Armed Forces Institute of Ophthalmology (AFIO).
